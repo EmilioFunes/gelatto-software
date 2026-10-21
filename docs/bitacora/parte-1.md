@@ -14,11 +14,11 @@ Resumen de lo que hizo el equipo para dejar listo el repositorio.
 
 ## Trabajo entregado
 
-| Qué se hizo | Autor |
-|---|---|
-| README de la empresa | EmilioFunes |
-| Reglas del equipo (CONTRIBUTING) | cristian-0023 |
-| Estructura de carpetas y .gitignore | MiguelVilla99 |
-| Perfiles de Emilio y Breidis | EmilioFunes |
-| Perfil de Villa | MiguelVilla99 |
-| Perfil de Cristian | cristian-0023 |
+| PR | Qué se hizo | Autor |
+|---|---|---|
+| #8 | README de la empresa | EmilioFunes |
+| #9 | Reglas del equipo (CONTRIBUTING) | cristian-0023 |
+| #10 | Estructura de carpetas y .gitignore | MiguelVilla99 |
+| #11 | Perfiles de Emilio y Breidis | EmilioFunes |
+| #13 | Perfil de Villa | MiguelVilla99 |
+| #14 | Perfil de Cristian | cristian-0023 |
