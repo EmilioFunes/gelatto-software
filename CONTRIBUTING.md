@@ -41,8 +41,6 @@ Quién revisa a quién:
 | Villa | Cristian |
 | Breidis | Villa |
 
-La revisión va en cadena: Breidis revisa a Emilio, Emilio a Cristian, Cristian a Villa y Villa a Breidis. El último revisa al primero.
-
 Antes de aprobar, el revisor comprueba que:
 - El archivo está en la carpeta correcta.
 - El nombre de la rama y el commit siguen las convenciones.
