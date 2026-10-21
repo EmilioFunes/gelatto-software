@@ -4,12 +4,12 @@
 
 Nunca se sube directo a `main`: está protegida. Cada tarea se hace en su propia rama, creada desde `main` actualizado.
 
-Formato: `tipo/descripcion-corta`, en minúscula y con guiones.
+Formato: `N-nombre-corto`, donde N es el número del issue y el resto son unas palabras cortas, en minúscula y con guiones.
 
 Ejemplos:
-- `docs/perfil-cristian`
-- `chore/estructura-proyecto`
-- `feat/formulario-login`
+- `16-actualiza-contributing`
+- `17-bitacora-parte-1`
+- `18-perfil-tecnologias`
 
 ## Commits
 
@@ -31,6 +31,18 @@ Un commit por cambio con sentido; no se mezclan tareas distintas en el mismo com
 Nadie aprueba su propio Pull Request. Todo PR necesita la aprobación de otro integrante antes de fusionarse.
 
 Cada PR se asigna a un revisor, y el equipo se turna para que todos revisen y todos sean revisados.
+
+Quién revisa a quién:
+
+| Autor | Revisor |
+|---|---|
+| Emilio | Breidis |
+| Cristian | Emilio |
+| Villa | Cristian |
+| Breidis | Villa |
+
+La revisión va en cadena: Breidis revisa a Emilio, Emilio a Cristian, Cristian a Villa y Villa a Breidis. El último revisa al primero.
+
 
 Antes de aprobar, el revisor comprueba que:
 - El archivo está en la carpeta correcta.
