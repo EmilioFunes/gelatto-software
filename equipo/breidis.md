@@ -12,7 +12,7 @@ Quiero seguir mejorando en diseño de APIs, manejo de errores y buenas práctica
 
 ## Tecnologías
 
-- APIs REST (aprendiendo)
-- Git y GitHub
 - Python
+- Git y GitHub
 - SQL (aprendiendo)
+- APIs REST (aprendiendo)
