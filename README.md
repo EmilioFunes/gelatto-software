@@ -35,3 +35,6 @@ gelatto-software/
 | `src/` | Código fuente de las automatizaciones de los encargos |
 
 
+## Cómo contribuir
+
+Las reglas para trabajar en este repositorio (ramas, commits y revisión de Pull Requests) están en [CONTRIBUTING.md](CONTRIBUTING.md).
