@@ -24,6 +24,6 @@ Opción A · Reporte automático.
 | Etapa | Qué construimos |
 |---|---|
 | Kickoff | El tablero con los tickets y este README |
-| Encargo 2 | Un script en Python que lee las ventas y genera el reporte (resumen y gráfica), sin caerse con datos malos |
+| Encargo 2 | Un script en Python, en la carpeta `src/reporte/`, que lee las ventas y genera el reporte (resumen y gráfica), sin caerse con datos malos |
 | Encargo 3 | GitHub Actions ejecuta el script solo, en la nube |
 | Encargo 4 | El reporte se publica en una página web con GitHub Pages |
